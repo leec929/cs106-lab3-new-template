@@ -1,5 +1,9 @@
 package prelab;
 
+/*
+ * Starter code that could be commented better in the future.
+ */
+
 import java.util.ArrayList;
 
 public class ProduceStand {
