@@ -8,15 +8,15 @@ Number of Late Days Using for this lab:
 
 ### Writeup
 
-1. Which instance variables do you have in your Name class?
+1. Describe the process you followed to arrive at the solution.
 
-2. How do you organize the storage of the yearly statistics per name versus the totals?
+2. Describe your StudentNode class design. What variables and methods do you have in it?
 
-3. Where are the overall totals stored and where are the yearly totals stored?
+3. How do you keep the linked list in sorted order?
 
-4. How do you keep the linked lists in alphabetically sorted order?
+4. What algorithm did you use to keep track of student's position in the lottery?
 
-5. How is total rank computed?
+5. Describe your implementation of each part of the optional extension done, if any.
 
 ---
 
